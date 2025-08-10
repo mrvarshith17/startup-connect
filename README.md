@@ -369,7 +369,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Builder.io** - Development platform and tools
 - **Radix UI** - Accessible component primitives
 - **Tailwind CSS** - Utility-first CSS framework
 - **React Team** - Amazing frontend framework
