@@ -1,20 +1,5 @@
 # VentureLink - Founder-Investor Collaboration Platform
 
-<div align="center">
-
-![VentureLink Logo](https://via.placeholder.com/200x80/6366f1/ffffff?text=VentureLink)
-
-**The premier platform where innovative founders meet visionary investors**
-
-[![React](https://img.shields.io/badge/React-18.x-blue)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-6.x-purple)](https://vitejs.dev/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-cyan)](https://tailwindcss.com/)
-[![Express](https://img.shields.io/badge/Express-4.x-green)](https://expressjs.com/)
-
-[Demo](https://287059519d9947ff853d0a0400bbc6bc-b2e69c57dea7487e9843921a6.fly.dev/) • [Features](#features) • [Getting Started](#getting-started) • [Contributing](#contributing)
-
-</div>
 
 ## 🚀 Overview
 
@@ -314,9 +299,6 @@ tests/
 └── api/           # API endpoint tests
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ### Development Workflow
 
@@ -363,9 +345,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - **File Uploads**: Files are stored locally, not in cloud storage
 - **Real-time Updates**: Limited to local state, no WebSocket implementation yet
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -374,19 +354,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React Team** - Amazing frontend framework
 - **Open Source Community** - For all the amazing libraries
 
-## 📞 Support
 
-- **Documentation**: [https://docs.venturelink.com](https://docs.venturelink.com)
-- **Issues**: [GitHub Issues](https://github.com/your-username/venturelink/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/venturelink/discussions)
-- **Email**: support@venturelink.com
 
----
 
-<div align="center">
-
-**Built with ❤️ by the VentureLink Team**
-
-[Website](https://venturelink.com) • [Documentation](https://docs.venturelink.com) • [Blog](https://blog.venturelink.com)
-
-</div>
